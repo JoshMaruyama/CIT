@@ -1,4 +1,34 @@
-## Welcome to GitHub Pages
+## Project 1
+
+### Lab 1
+
+## Project 2
+
+### Lab 2
+
+## Project 3
+
+### Lab 3
+
+### Lab 4
+
+## Project 4
+
+### Lab 5
+
+## Project 5
+
+## Project 6
+
+### Lab 6
+
+### Lab 7
+
+## Project 7
+
+## Lab 8
+
+## Lab 9
 
 You can use the [editor on GitHub](https://github.com/JoshMaruyama/CIT/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
