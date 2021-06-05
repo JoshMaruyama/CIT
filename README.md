@@ -1,6 +1,6 @@
 ## Project 1
 Working with command line interface and Visual Studio Code
-### Lab 1
+### [Lab 1](https://github.com/JoshMaruyama/cit281-lab1.git)
 Terminal commands and keyboard shortcuts
 ## Project 2
 Practice using git
